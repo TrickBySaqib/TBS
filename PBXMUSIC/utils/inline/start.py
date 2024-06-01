@@ -34,7 +34,7 @@ def private_panel(_):
             InlineKeyboardButton(text="ɢʀᴏᴜᴘ ✨", url=config.SUPPORT_CHAT),
             InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ 🥀", url=config.SUPPORT_CHANNEL),
             InlineKeyboardButton(
-                text="ʀᴇᴘᴏ 🗡️", url=f"https://github.com/Badhacker98/BADMUSIC/fork"
+                text="ʀᴇᴘᴏ 🗡️", url=f"https://t.me/OWNER_TBS"
             ),
         ],
         [
